@@ -1,0 +1,238 @@
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\MoneyManager.dll.config
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\MoneyManager.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\MoneyManager.pdb
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\csc.exe
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\csc.exe.config
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\csc.rsp
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\csi.exe
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\csi.exe.config
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\csi.rsp
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.AppContext.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Console.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Security.Claims.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\vbc.exe
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\vbc.exe.config
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\vbc.rsp
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\Antlr3.Runtime.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\EntityFramework.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\EntityFramework.SqlServer.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\Newtonsoft.Json.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.Helpers.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.Mvc.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.Optimization.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.Razor.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.WebPages.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\WebGrease.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\EntityFramework.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\EntityFramework.SqlServer.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.Helpers.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.Mvc.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.Optimization.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.Razor.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.WebPages.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\Newtonsoft.Json.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\Antlr3.Runtime.pdb
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\obj\Debug\MoneyManager.csprojAssemblyReference.cache
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\obj\Debug\MoneyManager.csproj.CopyComplete
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\obj\Debug\MoneyManager.dll
+C:\Users\pasan\source\repos\MoneyManager\MoneyManager\obj\Debug\MoneyManager.pdb
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\MoneyManager.dll.config
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\MoneyManager.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\MoneyManager.pdb
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\csc.exe
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\csc.exe.config
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\csc.rsp
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\csi.exe
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\csi.exe.config
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\csi.rsp
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.AppContext.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Console.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Claims.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\vbc.exe
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\vbc.exe.config
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\vbc.rsp
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\Antlr3.Runtime.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\EntityFramework.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\EntityFramework.SqlServer.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\Newtonsoft.Json.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.Helpers.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.Mvc.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.Optimization.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.Razor.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\WebGrease.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\EntityFramework.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\EntityFramework.SqlServer.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.Helpers.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.Mvc.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.Optimization.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.Razor.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\Newtonsoft.Json.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\Antlr3.Runtime.pdb
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\obj\Debug\MoneyManager.csprojAssemblyReference.cache
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\obj\Debug\MoneyManager.csproj.CopyComplete
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\obj\Debug\MoneyManager.dll
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Assignments\Web Programming\02 - MoneyManager\MoneyManager\obj\Debug\MoneyManager.pdb
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\MoneyManager.dll.config
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\MoneyManager.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\MoneyManager.pdb
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\csc.exe
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\csc.exe.config
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\csc.rsp
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\csi.exe
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\csi.exe.config
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\csi.rsp
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.Managed.Core.targets
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.AppContext.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Collections.Immutable.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Console.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.Compression.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.FileSystem.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.IO.Pipes.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Reflection.Metadata.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.AccessControl.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Claims.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Security.Principal.Windows.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.ValueTuple.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Xml.XmlDocument.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Xml.XPath.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\vbc.exe
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\vbc.exe.config
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\vbc.rsp
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\VBCSCompiler.exe
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\roslyn\VBCSCompiler.exe.config
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\Antlr3.Runtime.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\EntityFramework.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\EntityFramework.SqlServer.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\Microsoft.Web.Infrastructure.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\Newtonsoft.Json.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.Helpers.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.Mvc.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.Optimization.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.Razor.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.Deployment.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.Razor.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\WebGrease.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\EntityFramework.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\EntityFramework.SqlServer.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.Helpers.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.Mvc.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.Optimization.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.Razor.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.Deployment.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\System.Web.WebPages.Razor.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\Newtonsoft.Json.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\Antlr3.Runtime.pdb
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\obj\Debug\MoneyManager.csprojAssemblyReference.cache
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\obj\Debug\MoneyManager.csproj.CoreCompileInputs.cache
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\obj\Debug\MoneyManager.csproj.CopyComplete
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\obj\Debug\MoneyManager.dll
+E:\2ndyear\ASP .NET MVC Assignment\02 - MoneyManager\MoneyManager\obj\Debug\MoneyManager.pdb

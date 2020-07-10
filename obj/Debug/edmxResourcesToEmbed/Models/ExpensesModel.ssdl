@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MoneyManageDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CategoryName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Expenses">
+    <Key>
+      <PropertyRef Name="ExpenseId" />
+    </Key>
+    <Property Name="ExpenseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Amount" Type="decimal" Precision="15" Scale="2" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+    <Property Name="CategoryID" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MoneyManageDB.dbo.view_expences' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="view_expences">
+    <Key>
+      <PropertyRef Name="ExpenseId" />
+      <PropertyRef Name="Description" />
+      <PropertyRef Name="Amount" />
+      <PropertyRef Name="Date" />
+      <PropertyRef Name="CategoryName" />
+    </Key>
+    <Property Name="ExpenseId" Type="int" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Amount" Type="decimal" Precision="15" Scale="2" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+    <Property Name="CategoryName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MoneyManageDB.dbo.view_expences2' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="view_expences2">
+    <Key>
+      <PropertyRef Name="ExpenseId" />
+      <PropertyRef Name="Description" />
+      <PropertyRef Name="Amount" />
+      <PropertyRef Name="Date" />
+      <PropertyRef Name="CategoryName" />
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="ExpenseId" Type="int" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Amount" Type="decimal" Precision="15" Scale="2" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+    <Property Name="CategoryName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CategoryId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_category">
+    <End Role="Category" Type="Self.Category" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Expenses" Type="Self.Expenses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Expenses">
+        <PropertyRef Name="CategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MoneyManageDBModelStoreContainer">
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Expenses" EntityType="Self.Expenses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="view_expences" EntityType="Self.view_expences" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [view_expences].[ExpenseId] AS [ExpenseId], 
+    [view_expences].[Description] AS [Description], 
+    [view_expences].[Amount] AS [Amount], 
+    [view_expences].[Date] AS [Date], 
+    [view_expences].[CategoryName] AS [CategoryName]
+    FROM [dbo].[view_expences] AS [view_expences]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="view_expences2" EntityType="Self.view_expences2" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [view_expences2].[ExpenseId] AS [ExpenseId], 
+    [view_expences2].[Description] AS [Description], 
+    [view_expences2].[Amount] AS [Amount], 
+    [view_expences2].[Date] AS [Date], 
+    [view_expences2].[CategoryName] AS [CategoryName], 
+    [view_expences2].[CategoryId] AS [CategoryId]
+    FROM [dbo].[view_expences2] AS [view_expences2]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_category" Association="Self.FK_category">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Expenses" EntitySet="Expenses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
