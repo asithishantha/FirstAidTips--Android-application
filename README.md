@@ -3,5 +3,5 @@ android application for first aid, it includes all first aid steps for many emer
   <br />
 
 
-<img src="https://github.com/asithishantha/FirstAidTips--Android-application/blob/master/20210911-1080p.gif"  width="1000px" height="563px" >
+<img src="https://github.com/asithishantha/FirstAidTips--Android-application/blob/master/20210911-1080p.gif"  width="800px" height="450px" >
   <br />
